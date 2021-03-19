@@ -1,5 +1,9 @@
 # misc-blocks
 
+![Styleguide](https://img.shields.io/badge/Style%20Guide-Airbnb-%23FB5057)
+![Tested with Jest](https://img.shields.io/badge/Tested%20with-Jest-%23BF1524)
+
+
 Functional blocks of code written in TypeScript. 
 
 ## Setup
@@ -8,6 +12,7 @@ Functional blocks of code written in TypeScript.
 npm install misc-blocks
 ```
 
+- find match between two arrays [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-match-between-two-arrays)
 
 
 - if array has duplicates
