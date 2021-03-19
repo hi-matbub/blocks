@@ -1,3 +1,3 @@
 module.exports = {
-  findMatchBetweenTwoArrays: require('./find-match-between-two-arrays/index.ts'),
+  findMatchBetweenTwoArrays: require('./find-match-between-two-arrays/'),
 };
