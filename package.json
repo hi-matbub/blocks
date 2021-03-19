@@ -11,11 +11,11 @@
     "build": "npx webpack --config webpack.config.js",
     "tsc": "rm -rf dist && tsc",
     "test": "jest",
+    "test:cb": "npm run tsc && npm t && npm run lint:fix",
     "lint": "eslint --ext .js,.ts",
     "lint:fix": "eslint --ext .js,.ts --fix",
-    "clean": "npm run tsc && npm t && npm run lint:fix",
     "prepare": "husky install",
-    "prepack": "npm run clean"
+    "prepack": "npm run test:cb"
   },
   "repository": {
     "type": "git",
@@ -46,6 +46,7 @@
     "webpack-cli": "^4.5.0"
   },
   "exports": {
-    ".": "./dist/index.js"
+    ".": "./dist/index.js",
+    "./find-match-between-two-arrays": "./dist/find-match-between-two-arrays/index.js"
   }
 }
