@@ -1,9 +1,13 @@
 {
   "name": "misc-blocks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Functional blocks of code written in TypeScript.",
   "main": "./dist/index.js",
   "types": "./dist/index.js",
+  "exports": {
+    ".": "./dist/index.js",
+    "./find-match-between-two-arrays": "./dist/find-match-between-two-arrays/index.js"
+  },
   "directories": {
     "lib": "lib"
   },
