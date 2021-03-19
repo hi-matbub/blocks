@@ -1,3 +1,7 @@
 node_modules
 package-lock.json
 dist
+
+# ignore tarbell from npm pack
+# https://docs.npmjs.com/cli/v7/using-npm/developers#testing-whether-your-npmignore-or-files-config-works
+*.tgz

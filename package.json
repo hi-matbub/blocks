@@ -1,6 +1,6 @@
 {
   "name": "misc-blocks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Functional blocks of code written in TypeScript.",
   "main": "./dist/index.js",
   "types": "./dist/index.js",
@@ -19,7 +19,9 @@
     "type": "git",
     "url": "git+https://github.com/hi-matbub/misc-blocks.git"
   },
-  "keywords": ["typescript"],
+  "keywords": [
+    "typescript"
+  ],
   "author": "hi-matbub",
   "license": "MIT",
   "bugs": {
@@ -41,7 +43,7 @@
     "webpack": "^5.26.3",
     "webpack-cli": "^4.5.0"
   },
-  "exports" : {
+  "exports": {
     ".": "./dist/index.js"
   }
 }
