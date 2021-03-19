@@ -19,7 +19,7 @@ const findMatchBetweenTwoArrays = (a: Array<number>, b: Array<number>) => {
 
 ### Example use case 
 ```ts
-import { findMatchBetweenTwoArrays } from = 'misc-blocks/find-match-between-two-arrays'
+import findMatchBetweenTwoArrays from = 'misc-blocks/find-match-between-two-arrays'
 
 findMatchBetweenTwoArrays([1,2,5], [5,3,6]); // { status: true, msg: 5 }
 findMatchBetweenTwoArrays([0,0,0], [1,1,1]); // { status: false }
