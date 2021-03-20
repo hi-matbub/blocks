@@ -98,4 +98,5 @@ sequentialSearch("Hello", ["Seven", 24, "Hello"]); //  { "status": true, "msg": 
 - find perimeter of rectangle
 [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?ssl=14&ssc=1&pln=1&pc=1#code/PQKhCgAIUqYAQA4EMBOyC2kDuBLAJgC4AWs0kSamkANgKYB2A5iWQqnYQK6oMDOkAHJcMAIzqo4wcOADGAe36FIAM1wN8ABQm4MnCQHkVAJTqzCyZvUgBeSAAo8RYgC4hI8agA0tRi1fuYhIAlLYAfA7CQaiOBCShMABMoQDUkR4S9vTM8eTJMgr88vQAdDTyTPZqGtqouvqoRqbmlkz09gBsPgDswcEA3HKKfMV0ZRVV6lo6eoSGJmYWVnT2AKxdkIkAzH2DhSOl5ZXV03Wz881LbStbACw9OwMyQA)
 
-
+- qty of matches 
+- [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAHAhgJ0QW0gR0gOQK5oBGApspAD6QDKALsgJYB2A5hZAEID2nANsYoygwEKdJBRkAgslQBPADyMCJMpQDOdJq0qFufAQD4hcZMRp5kjNZADyhAFbEAxjSHBw4J5ys1IXvIw0ALKINE4AFsTWALyQABSYAFy4yqRstAwsbFy8-IyQADQSydJyiqmqkBqZ2pC6uYYAlJDRBpAA3lCQfL6YNLItkAAMANxdAGacyHE9kPRz+RLNnZCrc+Px2NHb4jIA2vQAus19AwDUsQCMY6sAvmNdpuaWWP2QAPwdVTSheGrJdDwxAKrwGt0gyXa31+-0g40QPDUxEgt3A9w8Xh8kAAJsQ0JxLoN-IEQmFImo4gBmEF7S4FABMBWpABYCqzqZTjiNIMBgF8AEQaGH8gHIIEg-mnEWQSkozzeDQ4vGcelEzgBYKhCJROKA4GQPZ6grwxHAo16rk8vlQwU-cxqaVGyCS-rS2WozGK3H42WxYmask6-kAKU44XyABFOMR+TSQ2HI9HY4yTUiCvHw5AozHLbyBUL7Y6xfqXbJpaqPQrfN7OMy1RrSdqKfyAMKccbjYgxuMR5yIcbJ40IpG563Ogt-aWp5Go+VWXIAOh4nGYcRWSvxdK6NcZ2+V1L3+NZaMa4CAA)
