@@ -17,10 +17,29 @@ npm install misc-blocks
 
 This is a utility driven project. Refer to the list below to view more information about specific methods available. 
 
-- find match between two arrays [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-match-between-two-arrays)
-- if array has duplicate values [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/if-array-has-duplicate-values)
-- execute once [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/execute-once)
-- sequential search [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/sequential-search)
+### misc-blocks/find-match-between-two-arrays
+
+[![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-match-between-two-arrays)
+
+Find match between two Arrays. Accepts 2 Arrays and returns an Object with first matched item. 
+
+### misc-blocks/if-array-has-duplicate-values
+
+[![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/if-array-has-duplicate-values)
+
+If Array has duplicate values. Accepts an Array and returns an Object with first matched item.
+
+### misc-blocks/execute-once
+
+[![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/execute-once)
+
+Execute once. Function must be set once then invoked as a new method. Will return `undefined` on repeated calls.
+
+### misc-blocks/sequential-search
+
+[![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/sequential-search)
+
+Sequential search. Find's dynamic match within Array and returns an Object response 
 
 - find minimum value in array
 [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?ssl=23&ssc=1&pln=1&pc=1#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ62knlQFMAXAV1QDsBnSDAS2sYwqwDdkAbCkuYOHABjAPZ0ykAGbMAJgFlmrdgDUefSAF5IAChzJcALkgBBVHgA81dgCMSqAHwBKLQ8gBvKJG7lIwqqTUZIosbBhqvCRa2OYGANoADAC6ANxCkNKiqLrevozRCSmQ+RYxeAB0PtQA5mQAFkX5ANTaAIxOnhkZjFI6-uYkQSHK4epRbvq4cYxJLp1dGf2BwUphERrak9OpXhkAvmn7aV6klDR+AYMroapjaXtCPpKT0XEArAA0kADMXwDsXwAHF9WgkQZ9IK1gZAAEwAFhBrVaIJBMJBAE4gX8dmIJJBZCQMKJojJqApVrdInpYrgnMdcbRRD5KqJqjoCUS6eAgA)
