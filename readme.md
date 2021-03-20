@@ -6,7 +6,7 @@
 
 <p align="right"><img src="./public/blocks-154x154.png" /></p>
 
-Blocks of code written in TypeScript, compiled into pure functional JavaScript 💙
+Blocks of code written in TypeScript, compiled into pure functional JavaScript modules 💙
 
 ## Getting Started
 
