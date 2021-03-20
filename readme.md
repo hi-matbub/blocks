@@ -7,13 +7,18 @@
 
 Functional blocks of code written in TypeScript. 
 
-## Setup
+## Getting Started
+
+Install the `misc-blocks` package.
 
 ```js
 npm install misc-blocks
 ```
 
+This is a utility driven project. Refer to the list below to view more information about specific methods available. 
+
 - find match between two arrays [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-match-between-two-arrays)
+
 
 
 - if array has duplicates
