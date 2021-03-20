@@ -20,10 +20,7 @@ This is a utility driven project. Refer to the list below to view more informati
 - find match between two arrays [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-match-between-two-arrays)
 - if array has duplicate values [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/if-array-has-duplicate-values)
 - execute once [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/execute-once)
-
-
-- basic sequential search
-[![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2kDOBTNAxgBazSRJqaRroCepCquALgK6oB22kARgPZ8ANvg6Q+ojMmbE4wcOALjszHLgCOrXB2YBLZIIDK+VMUgBeSAAo8hIgC5IAOVYYeuVJAA+kA81Q6OAHMAGmpUOgcAQXDkWgAeDhc3D29lfyCAPgBKcwzIAG8oSAAzPg9LYRUdc0gABgBuSGq4sLoAOmEg5iJG6oBqCwBGHMLIMabiyxpYgG0dAF1zMwsbEyIRovHIRS4hXA6+QMsAAwBZKVNS1g4AEwcAEnzV4gBfY6z6zfGmNk5IP00ny2LyBkBBRWAwB0zFwWA4fBUV1upEgP3YomK+jwn3BCiUKhusL4RlsNQATAAWT47ZSQQkYPjROg1GZk0IAVlCAGZQgB2UIADlCg1qws5kEGQsglOFg0GwrZEoAnILefNPuA8BotLp9CS1pZ6cTjMRQkambEPuAgA)
+- sequential search [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/sequential-search)
 
 - find minimum value in array
 [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?ssl=23&ssc=1&pln=1&pc=1#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ62knlQFMAXAV1QDsBnSDAS2sYwqwDdkAbCkuYOHABjAPZ0ykAGbMAJgFlmrdgDUefSAF5IAChzJcALkgBBVHgA81dgCMSqAHwBKLQ8gBvKJG7lIwqqTUZIosbBhqvCRa2OYGANoADAC6ANxCkNKiqLrevozRCSmQ+RYxeAB0PtQA5mQAFkX5ANTaAIxOnhkZjFI6-uYkQSHK4epRbvq4cYxJLp1dGf2BwUphERrak9OpXhkAvmn7aV6klDR+AYMroapjaXtCPpKT0XEArAA0kADMXwDsXwAHF9WgkQZ9IK1gZAAEwAFhBrVaIJBMJBAE4gX8dmIJJBZCQMKJojJqApVrdInpYrgnMdcbRRD5KqJqjoCUS6eAgA)
