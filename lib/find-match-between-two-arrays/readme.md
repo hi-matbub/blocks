@@ -3,7 +3,7 @@
 [![Try me in the TS Playground](https://shields.io/badge/-View_Test_suite-yellow)](../../test/find-match-between-two-arrays.test.ts)
 
 
-Function accepts 2 Arrays as arguments and returns a Object response for both matches and no-matches. 
+Accepts 2 Arrays and returns an Object with first matched item. Else return an Object with a falsey value.
 
 ```ts
 const findMatchBetweenTwoArrays = (a: Array<number>, b: Array<number>) => {
@@ -19,7 +19,7 @@ const findMatchBetweenTwoArrays = (a: Array<number>, b: Array<number>) => {
 
 ### Example use case 
 ```ts
-import findMatchBetweenTwoArrays from = 'misc-blocks/find-match-between-two-arrays'
+import findMatchBetweenTwoArrays from = 'misc-blocks/find-match-between-two-arrays';
 
 findMatchBetweenTwoArrays([1,2,5], [5,3,6]); // { status: true, msg: 5 }
 findMatchBetweenTwoArrays([0,0,0], [1,1,1]); // { status: false }
