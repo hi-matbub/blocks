@@ -3,7 +3,7 @@
 ![Styleguide](https://img.shields.io/badge/Style%20Guide-Airbnb-%23FB5057)
 ![Tested with Jest](https://img.shields.io/badge/Tested%20with-Jest-%23BF1524)
 
-<p align="right"><img src="./public/blocks.png" style="width: 100px"/></p>
+<p align="right"><img src="./public/blocks-154x154.png" /></p>
 
 Functional blocks of code written in TypeScript. 
 
