@@ -23,7 +23,7 @@ const sequentialSearch = require('misc-blocks/sequential-search');
 const demo1 = sequentialSearch(24, [18, 24, 111]); 
 //  { "status": true, "msg": 24, "i": 1 }
 
-const demo2 = sequentialSearch("Hello", ["Samo", 24, "Hello"]); 
+const demo2 = sequentialSearch("Hello", ["Seven", 24, "Hello"]); 
 //  { "status": true, "msg": "Hello", "i": 2 }
 
 const demo3 = sequentialSearch(true, [true, 24, "Hello"]);

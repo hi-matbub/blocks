@@ -2,6 +2,7 @@
 
 ![Styleguide](https://img.shields.io/badge/Style%20Guide-Airbnb-%23FB5057)
 ![Tested with Jest](https://img.shields.io/badge/Tested%20with-Jest-%23BF1524)
+![License](https://img.shields.io/badge/License-MIT-orange)
 
 <p align="right"><img src="./public/blocks-154x154.png" /></p>
 
