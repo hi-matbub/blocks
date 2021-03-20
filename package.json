@@ -6,7 +6,8 @@
   "types": "./dist/index.js",
   "exports": {
     ".": "./dist/index.js",
-    "./find-match-between-two-arrays": "./dist/find-match-between-two-arrays/index.js"
+    "./find-match-between-two-arrays": "./dist/find-match-between-two-arrays/index.js",
+    "./if-array-has-duplicate-values": "./dist/if-array-has-duplicate-values"
   },
   "directories": {
     "lib": "lib"
