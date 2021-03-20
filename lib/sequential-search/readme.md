@@ -18,7 +18,7 @@ const sequentialSearch = (x: Number | String | Boolean, arr: Array<number | stri
 ### Example use case 
 
 ```ts
-import sequentialSearch from = 'misc-blocks/sequential-search';
+const sequentialSearch = require('misc-blocks/sequential-search');
 
 const demo1 = sequentialSearch(24, [18, 24, 111]); 
 //  { "status": true, "msg": 24, "i": 1 }

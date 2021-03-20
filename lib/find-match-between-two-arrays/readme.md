@@ -7,7 +7,7 @@ Accepts 2 Arrays and returns an Object with first matched item. Else return an O
 
 ```ts
 const findMatchBetweenTwoArrays = (a: Array<number>, b: Array<number>) => {
-  for(var i in a) {   
+  for(let i in a) {   
     if(a.indexOf(b[i]) > -1) {
       return { status: true, msg: b[i] };
     };
@@ -19,7 +19,7 @@ const findMatchBetweenTwoArrays = (a: Array<number>, b: Array<number>) => {
 
 ### Example use case 
 ```ts
-import findMatchBetweenTwoArrays from = 'misc-blocks/find-match-between-two-arrays';
+const findMatchBetweenTwoArrays = require('misc-blocks/find-match-between-two-arrays');
 
 findMatchBetweenTwoArrays([1,2,5], [5,3,6]); // { status: true, msg: 5 }
 findMatchBetweenTwoArrays([0,0,0], [1,1,1]); // { status: false }

@@ -20,7 +20,7 @@ const hasDuplicateValues = (arr: Array<number | string>) => {
 ### Example use case 
 
 ```ts
-import hasDuplicateValues from = 'misc-blocks/if-array-has-duplicate';
+const hasDuplicateValues = require('misc-blocks/if-array-has-duplicate');
 
 hasDuplicateValues([3,4,3,4]); // { "status": true, "msg": 3 }
 hasDuplicateValues([3,4,9,2]); // { "status": false }
