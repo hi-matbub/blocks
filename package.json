@@ -1,6 +1,6 @@
 {
   "name": "misc-blocks",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Functional blocks of code written in TypeScript.",
   "main": "./dist/index.js",
   "types": "./dist/index.js",
