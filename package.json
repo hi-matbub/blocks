@@ -7,7 +7,7 @@
   "exports": {
     ".": "./dist/index.js",
     "./find-match-between-two-arrays": "./dist/find-match-between-two-arrays/index.js",
-    "./if-array-has-duplicate-values": "./dist/if-array-has-duplicate-values"
+    "./if-array-has-duplicate-values": "./dist/if-array-has-duplicate-values/index.js"
   },
   "directories": {
     "lib": "lib"
