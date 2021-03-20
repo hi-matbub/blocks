@@ -18,11 +18,8 @@ npm install misc-blocks
 This is a utility driven project. Refer to the list below to view more information about specific methods available. 
 
 - find match between two arrays [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-match-between-two-arrays)
+- if array has duplicate values [![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/if-array-has-duplicate-values)
 
-
-
-- if array has duplicates
-[![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAHAhgJ0QW0i5ko1sgUwBcBXZAOwGdIjkSDIB7cyAMwEtlKjIATE+ABt2AY0REGrRiXK8c0YOHAjm3SAAtElACIDhYiQDVEg+tQC8kABRYAXJACCyVAE8APORJoARgWwAfSG5kdnIAcwA+AEpIcwjIAG8oSBUqHkZvACt7BIBtUN4CAA97YNCwgF17RHIXAF9YxLqAbmSpZCtBYkh2RoAGZp7IN0xnADou8KJ1Qd6AaksARhikyDWe1msMzNysfIqKleT1yEJSCho6AlaTluOmLN3nfYrG2nobyDu1s7IWVhMlGu4DuylUPEKaEYi0amh0elE4gIxlMBEoVlyABYADQAVmxADZsZjDoNgMBLvQwWk+AQoQAmWFaXRCRFGExmDEAZmJ2J5JKiZIp7wI1LUkMYXKZ8NZBmRHLR3N5AE5sfTSZByWxAaKxYwuhNGGErKtaVDFtjkhL6Za1hKuSCokoteoiER4JRbOSwuxpiRvGMVGhgOp2ABaNDibz+4DeQSMEQAa2ogF4NwDSO5AgA)
 
 - execute function _only_ once
 [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAHAhgJ0QW0ig5pgdgTyhlmQFMAXAV2VwGdIB7XAY1IBpJyALU3SS3ABNSAMwCWuUoKLBw4EQObkxTSKQAepZpXKkA8i1IAKAJSQA3lEgAbCms3bdgyAF5IIxNdqkA3FbJUNO6KykxG2ABcePhmlpDxCWIikEYAhBpaOlKxVgkJGY5SrpzIlL65eZAB1HzYpn6VkAC+FfHVNA3Nfk1+4MxMtOSMhsUFWQas9XL9dEPCaAwAjMVMk6auAHyQAEQAEqTW1gwcAOoMyNaCqdsmfjODkPMMAEwrhkbrLlt7B0en55drrdpgMGLYAHRHLBGOKPUgLRYcKxPZ5scBNYHgYDASBccjkeC0CLYrBibiUABG4P6aGAXDEAFo0IhyBTKcAKUdmABreiAXg3ANI7kHAQA)
