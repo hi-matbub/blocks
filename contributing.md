@@ -79,13 +79,13 @@ We will need to be able to import as a sub directory. This allows </br> `const m
 
 [Start with a copy of the submodule readme template](./static/examples/submodule-readme.md). Click the view raw button in the upper right-hand corner.
 
+### Update the primary readme
+
+[Grab a copy of the primary readme template](./static/examples/submodule-readme.md). Click the "raw" button in the upper right-hand corner.
+
 <details>
   <summary>Where is the view raw button?</summary>
   <a href="https://github.com/hi-matbub/markdown-guide" target="_blank">
     <img src="https://github.com/hi-matbub/markdown-guide/raw/master/how-to-use.gif?raw=true" alt="gif demo"/>
   </a>
 </details>
-
-
-
-
