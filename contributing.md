@@ -77,7 +77,7 @@ We will need to be able to import as a sub directory. This allows </br> `const m
 
 ### Add a readme for the submodule 
 
-[Start with a copy of the submodule readme template](./examples/submodule-readme.md). Click the view raw button in the upper right-hand corner.
+[Start with a copy of the submodule readme template](./static/examples/submodule-readme.md). Click the view raw button in the upper right-hand corner.
 
 <details>
   <summary>Where is the view raw button?</summary>
