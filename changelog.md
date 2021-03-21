@@ -7,3 +7,4 @@ Updates and breaking changes to the `misc-blocks` package on [npm](https://www.n
 - 0.0.6 [execute-once](./lib/execute-once)
 - 0.0.7 [sequential-search](./lib/sequential-search)
 - 0.0.8 [qty-of-matches](./lib/qty-of-matches)
+- 0.0.9 [find-minimum-value](./lib/find-minimum-value)

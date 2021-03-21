@@ -4,4 +4,5 @@ module.exports = {
   executeOnce: require('./execute-once/'),
   sequentialSearch: require('./sequential-search/'),
   qtyOfMatches: require('./qty-of-matches/'),
+  findMinimumValue: require('./find-minimum-value/'),
 };
