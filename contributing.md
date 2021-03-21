@@ -21,7 +21,7 @@ To Summarize:
 - Add a readme for the new module. 
 
 
-## 1. Add the Code
+## Add feature `./lib/my-new-feature/index.ts`
 
 Add the code in a new subdirectory with a descriptive but breif title. See examples of naming conventions in the [./lib](./lib) directory.
 
@@ -37,7 +37,9 @@ module.exports = () => {
 };
 ```
 
-### 1.5 Add to main export in ./lib/index.ts
+## Export from entry point `./lib/index.ts`
+
+Export from main entry point. This is for accessibility for users who prefer to extract via `const { myAwesomeFeature } = require ('misc-blocks')`
 
 ```js
 module.exports = {
@@ -47,27 +49,37 @@ module.exports = {
 
 ```
 
-## 2. Test the code
-We are using Jest to unit test. See examples in the [./test](./test) directory.
+## Create test suite `./test/my-new-feature.test.ts`
 
-- [ ] Include both happy and uphappy test cases. (2 minimum)
+We are using Jest to unit test. Grab a copy of [the starter template here.](./examples/submodule-test-suite.md)
 
-## 3. Add a demo version of the code to TS Playground
+- [ ] Include both happy and uphappy test cases. Should have atleast 2 test cases.
+
+## Add a demo version of the code to TS Playground
 [![See me](https://shields.io/badge/-See_Me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUgBAHAhgJ0QW0oyBBZqCeUMCK6kARjnoodHMgKYAuArsgHYDOkA8uQFYMAxkyLBw4IQHsuTSADMAluwAmAWURMhACwBCzAO4MG7ACoGpuAtwC8kABSIAXFQIAedizTkGyAHwANBQuVjQeXj7+AJSQNn6QAN5QClLI9gBuKJCK2eyYMQmQRclFivKOAHTKKgwAHjzl5ADaigC6MfEAtACMBSVFkIysHImQnEyaLJwuTMgsDEFonADmLs1tkAC+ANz9O8n7RUNseYXjk9MKiAA2nAxbu-uSMuOQNWhS3bEK1RpaeoZjGYLKF8Jx7E1ugEAEwBADMrSCTThAQArAEACww9q7aSyN4MD7Q75KVR-HT6JhGEzmSzUMEQqHQxGQZFogIAThxEjxnCk1wYFWuUmW9iSRXenwCyUl0PAmyiu3AwGAkG0TCY8GmKuWiiY2hY5Aq0jQwG0ik6aE05ENwDQik4Qk65GFQgA1pxgLNjHbEMpgNdFORgKSVJbNDpnYCTJ0qVJOihrJBlarALwbgGkd5NAA)
 
-## 4. Update the "exports" object within package.json
-- [ ] We will need to be able to import as a sub directory. 
+## Update the "exports" object within `./package.json`
+- [ ] We will need to be able to import as a sub directory. This allows `const myNewFeature = require('misc-blocks')`
+
+```json
+"exports": {
+  ".": "./dist/index.js",
+  "./my-new-feature": "./dist/my-new-feature/index.js",
+},
+```
 
 
-## 5. Add a readme for the new function
-See [./lib/find-match-between-two-arrays/readme.md](./lib/find-match-between-two-arrays/readme.md) for a full example.
+## Add a readme for the submodule 
 
-- [ ] readme in subdirectory e.g `./lib/my-new-feature/readme.md` 
-  - [ ] should include import as title. e.g `misc-blocks/my-new-feature`
-  - [ ] should include link as badge to source code in TypeScript Playground (See also step 3.)
-  - [ ] should include link as badge to test suites. 
-  - [ ] should contain a breif description of function
-  - [ ] should include raw ts code block
-  - [ ] should include full scope of use case. 
+[Start with a copy of the submodule readme template](./examples/submodule-readme.md). Click the view raw button in the upper right-hand corner.
+
+<details>
+  <summary>Whereis the view raw button?</summary>
+  <a href="https://github.com/hi-matbub/markdown-guide" target="_blank">
+    <img src="https://github.com/hi-matbub/markdown-guide/raw/master/how-to-use.gif?raw=true" alt="gif demo"/>
+  </a>
+</details>
+
+
 
 
