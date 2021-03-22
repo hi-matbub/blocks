@@ -107,8 +107,6 @@ findMinimumValue([4,3,23,2]); // 4
 
 ## Coming soon 🕐
 
-- find minimum value in array
-[![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?ssl=23&ssc=1&pln=1&pc=1#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ62knlQFMAXAV1QDsBnSDAS2sYwqwDdkAbCkuYOHABjAPZ0ykAGbMAJgFlmrdgDUefSAF5IAChzJcALkgBBVHgA81dgCMSqAHwBKLQ8gBvKJG7lIwqqTUZIosbBhqvCRa2OYGANoADAC6ANxCkNKiqLrevozRCSmQ+RYxeAB0PtQA5mQAFkX5ANTaAIxOnhkZjFI6-uYkQSHK4epRbvq4cYxJLp1dGf2BwUphERrak9OpXhkAvmn7aV6klDR+AYMroapjaXtCPpKT0XEArAA0kADMXwDsXwAHF9WgkQZ9IK1gZAAEwAFhBrVaIJBMJBAE4gX8dmIJJBZCQMKJojJqApVrdInpYrgnMdcbRRD5KqJqjoCUS6eAgA)
 
 - find greatest value in array
 [![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k3oJ62knlQFMAXAV1QDsBnSDZADwEsMKsA3ZAGwpLjBw4AMYB7OmUgAzFtQAmAcVLIyJWmQBqvfpAC8kABQ5kuAFyQAgqjwAeahwBGJVAD4AlPteQA3lEg85JAiVKTUZAASLADmABbqWjok+tg2pgDaAAwAugDcwpAyYqhGAUEsKZm5kBW2qXgAdIHU0WSx1RUA1AYAjO5+hYUs0oYhNiThUXEJ2nzJdSa46SzZngODhWNhkTHxGrO6BovLef6FAL75F-n+pJQ0waETO9P7SfnnwoFSiynpAKwAGkgAGZgQB2YEADmBPUysKBkB6MMgACYACywno9WGw1GwgCc0PBp3Ekkg8hIGDEKVkCmUJFUMySxjSuHcNzJtDEgSaYmihkp1I5QA)
