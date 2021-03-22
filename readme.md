@@ -92,6 +92,18 @@ qtyOfMatches(3, [1,2,3,4,4,3,3]); // { "status": true, "qty": 3 }
 ```
 <br/>
 
+### misc-blocks/find-minimum-value
+
+[![View Docs](https://shields.io/badge/-View_Docs-orange)](./lib/find-minimum-value)
+[![Try me in the TS Playground](https://shields.io/badge/-Try_me_in_the_TS_Playground-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2k2sgQVXQE9ZpJ5UBTAFwFdUA7AZ0gDlaMAjS1OYccAGMA9s2qQAZgEsGAEwCyMqRg4A1ZABtalSAF5IAChwAufIWREAPAw7dUAPgCUe+5ADeUSBpqQAHnuxCAG0ABgBdAG5PCWFcAy8fKUgZQNRnKQkDf1ccIKkw5399XPyoyEgqOkY-KIBfKKFRJnFZSgxhAEYA6TlFBmU1TW0DIIBWABoOgCZJgE5xgA4AdgKokTFIVvap7pkFJRUMdS1KEYAWcYBmcanrqdWBdaZhbwA6DWEAcwMPcq3O8aef5TcC1RxRIA)
+
+Accepts an Array of Numbers, returns the least greatest Number.
+
+```js
+findMinimumValue([4,3,23,2]); // 4
+```
+<br/>
+
 
 ## Coming soon 🕐
 
