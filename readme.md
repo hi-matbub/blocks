@@ -115,16 +115,3 @@ Accepts an Array of Numbers, returns the greatest number.
 findMaximumValue([4,3,23,2]); // 23
 ```
 <br/>
-
-## Coming soon 🕐
-
-
-
-- find sum of two values
-[![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?#code/PQKhCgAIUqYAQA4EMBOyC2kB2BXDARgKaoDy2RckSamO+xqAKgO4D2V8qRALrqtgDOkQfjjBwAYzZCekAGYBLbABMAyvkgBeSAAo8hEuSIAuSADkGJADT1Dzdmcv2AlNoB8Fq6n3fjbgGove197VjYXAG5wKRlBNgAbIgA6BLYAc10lVQ0MXQAmAAZbABZClyiYoA)
-
-- convert minutes to seconds 
-[![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?ssl=13&ssc=1&pln=1&pc=1#code/PQKhCgAIUqYAQA4EMBOyC2kMEsB2ArgC4CmAzrNJPKiUQanhWSQMYD2eAJmXMOAI5MikIQDcSqIgFl8xcgBV2AZTacekALyQAFLkKkyALkgA5AhgBGkyAB9IyoqnwBzAJRaAfGYvXUeuUMPGAA2AAYAbkFOMnYAGxIAOjj2Fx1xSRlAxRU1bjIdAFY3NyihWITk1PTOCSlZAxzVIR4dAHIAZjaSspj4pJS0jPrssiVm9QKAJh7wIA)
-
-- find perimeter of rectangle
-[![Try me](https://shields.io/badge/-Try_me-informational)](https://www.typescriptlang.org/play?ssl=14&ssc=1&pln=1&pc=1#code/PQKhCgAIUqYAQA4EMBOyC2kDuBLAJgC4AWs0kSamkANgKYB2A5iWQqnYQK6oMDOkAHJcMAIzqo4wcOADGAe36FIAM1wN8ABQm4MnCQHkVAJTqzCyZvUgBeSAAo8RYgC4hI8agA0tRi1fuYhIAlLYAfA7CQaiOBCShMABMoQDUkR4S9vTM8eTJMgr88vQAdDTyTPZqGtqouvqoRqbmlkz09gBsPgDswcEA3HKKfMV0ZRVV6lo6eoSGJmYWVnT2AKxdkIkAzH2DhSOl5ZXV03Wz881LbStbACw9OwMyQA)
